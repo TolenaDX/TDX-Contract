@@ -32,10 +32,10 @@ Developed with **Solidity 0.8.x** and OpenZeppelin standards for security and co
 
 ### 🌐 Official Resources
 - 🌍 Website – https://tolena.io  
-- 💻 GitHub – https://github.com/TolenaDX  
-- 🕊️ X (Twitter) – https://x.com/TolenaDigital  
-- 💬 Telegram – https://t.me/TBD  
-- 💼 LinkedIn – https://linkedin.com/company/tolena-digital-exchange  
+- 💻 GitHub –[ https://github.com/TolenaDX](https://github.com/TolenaDX)
+- 🕊️ X (Twitter) – [https://x.com/TDXCoin](https://x.com/TDXCoin)  
+- 💬 Telegram – [https://t.me/TDXPublic](https://t.me/TDXPublic)
+- 💼 LinkedIn – [https://linkedin.com/company/tolena-digital-exchange](https://www.linkedin.com/company/tolena-digital-exchange)  
 
 ---
 
